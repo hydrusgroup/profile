@@ -1,11 +1,10 @@
-
 # 🐲 HYDRUS
-Somos um grupo formado por criadores e entusiastas apaixonados pelo desenvolvimento de servidores de roleplay no Grand Theft Auto V, por meio da plataforma FiveM.
+We are a group formed by creators and enthusiasts passionate about developing roleplay servers for Grand Theft Auto V, using the FiveM platform.
 
-Acesse nosso site oficial: [Clique aqui para entrar](https://hydrus.site/).
+Visit our official website: [Click here to join](https://hydrusgroup.com.br/).
 
 -------
 
-### 💬 Comunidade
+### 💬 Community
 
-Para saber mais e participar das discussões, entre em nosso **Discord:** [Clique aqui](https://discord.gg/WqN8hRF8dA).
+To learn more and participate in discussions, join our **Discord:** [Click here](https://discord.gg/WqN8hRF8dA).
